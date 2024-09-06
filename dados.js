@@ -5,7 +5,7 @@ let dados = [
         atividades: "Exemplos de Atividades: Estudo ativo, Espaçamento, Mapas mentais, Técnica Pomodoro, Ensinar outra pessoa, simulados e testes.",
         dicas : "Dicas: Conheça os principais estilos de aprendizado. Que são Visual, Auditivo e Cinestésico",
         link: "https://blog.escolaconquer.com.br/como-aprender-a-aprender-7-dicas-para-melhorar-seu-aprendizado/",
-        tags: "como aprender a aprender? como aprender eu quero aprender"
+        tags: "como aprender a aprender como aprender eu quero aprender"
 
     },
        
@@ -16,7 +16,7 @@ let dados = [
         atividades : "Exemplos de Atividades: Criar mapas mentais, usar flashcards com imagens, assistir a vídeos e apresentações.",
         dicas : "Dicas: Utilize cores e marcadores para destacar informações importantes, faça anotações visuais e use diagramas para entender conceitos complexos.",
         link: "https://www.hotcourses.com.br/study-abroad-info/once-you-arrive/tipos-de-aprendizado-auditivo-cinestesico-e-visual/#:~:text=Existem%20tr%C3%AAs%20formas%20principais%20de,se%20tornar%20um%20estudante%20melhor.",
-        tags: " estilo visual visual ocular"
+        tags: " estilo visual ocular"
     }, 
 
     {
@@ -37,3 +37,4 @@ let dados = [
         tags: "estilo cinestésico cinestesico hands on pratico prático estilo prático"
     }
 ];
+

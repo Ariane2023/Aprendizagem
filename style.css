@@ -4,7 +4,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-color: #ada6e9; /* Cor de fundo da página */
+    
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
@@ -116,14 +116,14 @@ section button:hover {
 /* Estiliza cada item de resultado */
 .item-resultado {
 
-    background: #FFFFFF; /* Cor de fundo dos itens */
+    background-color: rgba(255, 255, 255, 0.9); /* Branco com 70% de opacidade */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
     border: 1px solid #ccc; /* Adiciona uma borda para melhor visualização */
-
-    
+    opacity: 0.9;
+        
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -167,6 +167,7 @@ footer {
     position: fixed; /* Posiciona o rodapé */
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
+    opacity: 10.; /* Define a opacidade (valor entre 0 e 1) */
 }
 
 @media (max-width: 768px) {

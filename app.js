@@ -46,24 +46,9 @@ function pesquisar() {
     }
 
     if (!resultados) {
-        resultados = "<p>Nada foi encontrado</p>"
+        resultados = "<h2>Nada foi encontrado</h2>"
     }
   
     // Atribui o conteúdo da string 'resultados' à seção HTML
     section.innerHTML = resultados;
-  }
-
-//console.log(dados)
-
-
-
-
-function mostrarPopup() {
-    document.getElementById("popup").style.display = "block";
-  }
-  
-  function fecharPopup() {
-    document.getElementById("popup").style.display   
-   = "none";   
-  
 }
