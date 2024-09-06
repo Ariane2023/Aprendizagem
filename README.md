@@ -1,4 +1,4 @@
-## Desvendando formas de aprendizado com o Google Gemini ##
+## Desvendando formas de aprendizado - Imersão Dev by Alura com o Google Gemini ##
 
 Seu Guia para Aprender a Aprender
 ** Descubra como turbinar seus estudos! **
