@@ -1,6 +1,10 @@
 /* Importa a fonte Chakra Petch do Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+:root {
+    box-sizing: border-box; /*calcula o tamanho dos elemento dentro do espaço disponível.*/
+}
+
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
@@ -123,8 +127,7 @@ section button:hover {
     background-color: white;
     border: 1px solid black;
     padding: 20px;
-    z-index:   
-   999;
+    z-index:   999;
   }
 
 /* Estiliza cada item de resultado */
@@ -138,7 +141,6 @@ section button:hover {
     border: 1px solid #ccc; /* Adiciona uma borda para melhor visualização */
     opacity: 0.9;
     padding-bottom: 1rem;
-        
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
