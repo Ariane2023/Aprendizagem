@@ -137,6 +137,7 @@ section button:hover {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
     border: 1px solid #ccc; /* Adiciona uma borda para melhor visualização */
     opacity: 0.9;
+    padding-bottom: 1rem;
         
 }
 
