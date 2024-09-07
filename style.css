@@ -50,8 +50,8 @@ body {
 
 .designer {
     position: absolute;
-    top: 100px; /* Ajuste o valor conforme necessário */
-    left: 20px; /* Ajuste o valor conforme necessário */
+    top: 120px; /* Ajuste o valor conforme necessário */
+    left: 38px; /* Ajuste o valor conforme necessário */
 }
 
 /* Estiliza os títulos h1 */
@@ -181,7 +181,7 @@ footer {
     position: fixed; /* Posiciona o rodapé */
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
-    opacity: 10.; /* Define a opacidade (valor entre 0 e 1) */
+    
 }
 
 @media (max-width: 768px) {
